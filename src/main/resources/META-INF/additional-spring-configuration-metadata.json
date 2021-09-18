@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "hibernate.dialect.storage_engine",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.dialect.storage_engine."
+    },
+    {
+      "name": "org.hibernate.dialect.MySQL5InnoDBDialect",
+      "type": "java.lang.String",
+      "description": "Description for org.hibernate.dialect.MySQL5InnoDBDialect."
+    }
+  ] }
